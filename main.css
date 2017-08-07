@@ -1,0 +1,34 @@
+*{
+  font-family: 'Roboto Slab', serif;
+}
+.profile {
+  background-color: #f3f3f3;
+}
+h1 {
+  text-align: center;
+  font-size: 36pt;
+  text-transform: uppercase;
+  font-weight: lighter;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.page {
+  display: flex;
+
+}
+.basics {
+  padding-right: 20px;
+}
+.verticalLine {
+  border-left: 1px solid grey;
+  height: 150px;
+}
+div img {
+  width: 150px;
+  height: 150px;
+  padding-left: 30px;
+}
+img {
+  border-radius: 50%
+}
